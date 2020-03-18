@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Selected Projects
 
-[Project 1 Title](/sample_page)
+[Porto Seguro’s Safe Driver Prediction](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
