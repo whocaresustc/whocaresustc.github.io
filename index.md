@@ -4,7 +4,7 @@
 
 ### Selected Projects
 
-[Porto Seguro’s Safe Driver Prediction](/sample_page)
+[Porto Seguro’s Safe Driver Prediction](/Porto Seguro)
 
 
 <img src="Porto Seguros Safe Driver Prediction/Introduction.png?raw=true"/>
