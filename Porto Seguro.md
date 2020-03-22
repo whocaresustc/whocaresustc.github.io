@@ -14,3 +14,8 @@ In this competition, we’re challenged to build a model that predicts the proba
 ### 2. Feature engineering: feature importance plot
 
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~linzhisheng0605/7.embed"></iframe>
+
+
+### 2. Model:  two levels model ensembling
+<img src="iPorto Seguros Safe Driver Prediction/Model ensembling.png?raw=true"/>
+
