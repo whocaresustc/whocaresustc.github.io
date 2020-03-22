@@ -21,4 +21,5 @@ In this competition, we’re challenged to build a model that predicts the proba
 ---
 ### 3. Model:  two levels model ensembling
 
-<img src="Porto Seguros Safe Driver Prediction/Model ensembling.png" width="500" height="250"/>
+<img src="Porto Seguros Safe Driver Prediction/Model ensembling.png" width="1000" height="500"/>
+s
