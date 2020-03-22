@@ -5,11 +5,10 @@
 ### Selected Projects
 
 [Porto Seguro’s Safe Driver Prediction](/sample_page)
+
+
 <img src="Porto Seguros Safe Driver Prediction/Introduction.png?raw=true"/>
 
-
-
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~linzhisheng0605/7.embed"></iframe>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
