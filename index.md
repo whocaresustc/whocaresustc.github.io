@@ -6,7 +6,9 @@
 
 [Porto Seguro’s Safe Driver Prediction](/sample_page)
 <img src="Porto Seguro’s Safe Driver Prediction/feature importance_sorted.html?raw=true"/>
-![](Porto Seguro’s Safe Driver Prediction/feature importance_sorted.html)
+
+This is a test of iframe plot
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~linzhisheng0605/7.embed"></iframe>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
