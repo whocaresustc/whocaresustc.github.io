@@ -8,7 +8,7 @@
 <img src="Porto Seguro?s Safe Driver Prediction/Introduction.png?raw=true"/>
 
 
-Displaying iframe file...
+
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~linzhisheng0605/7.embed"></iframe>
 
 ---
