@@ -10,6 +10,11 @@
 This is a test of iframe plot
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~linzhisheng0605/7.embed"></iframe>
 
+<div>
+    <a href="https://plot.ly/~linzhisheng0605/7/?share_key=92Nxmt5o1qWrV5qPqowO2u" target="_blank" title="Plot 7" style="display: block; text-align: center;"><img src="https://plot.ly/~linzhisheng0605/7.png?share_key=92Nxmt5o1qWrV5qPqowO2u" alt="Plot 7" style="max-width: 100%;width: 900px;"  width="900" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="linzhisheng0605:7" sharekey-plotly="92Nxmt5o1qWrV5qPqowO2u" src="https://plot.ly/embed.js" async></script>
+</div>
+
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
