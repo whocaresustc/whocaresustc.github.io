@@ -1,9 +1,5 @@
 **Project description:** 
-Nothing ruins the thrill of buying a brand new car more quickly than seeing your new insurance bill. The sting’s even more painful when you know you’re a good driver. It doesn’t seem fair that you have to pay so much if you’ve been cautious on the road for years.
-
-Porto Seguro, one of Brazil’s largest auto and homeowner insurance companies, completely agrees. Inaccuracies in car insurance company’s claim predictions raise the cost of insurance for good drivers and reduce the price for bad ones.
-
-In this competition, we’re challenged to build a model that predicts the probability that a driver will initiate an auto insurance claim in the next year. While Porto Seguro has used machine learning for the past 20 years, they’re looking to Kaggle’s machine learning community to explore new, more powerful methods. A more accurate prediction will allow them to further tailor their prices, and hopefully make auto insurance coverage more accessible to more drivers.
+Lending Club (a Peer to Peer lending marketplace) contains hundreds of loan projects, which makes it difficult for investors to choose a pro table one. In this FinTech project, we will use the data science knowledge to design a product as an intelligent investment advisor, helping investors identify the values of different projects in Lending Club, to determine the optimal projects to invest in. When the new loan project comes into the platform, our product would automatically analyze the project's parameters and screen out the best investment projects.
 
 ---
 ### 1. EDA: Count of 1 and 0 in binary variables
