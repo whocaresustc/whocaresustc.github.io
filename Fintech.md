@@ -1,5 +1,5 @@
 **Project description:** 
-Lending Club (a Peer to Peer lending marketplace) contains hundreds of loan projects, which makes it difficult for investors to choose a pro table one. In this FinTech project, we will use the data science knowledge to design a product as an intelligent investment advisor, helping investors identify the values of different projects in Lending Club, to determine the optimal projects to invest in. When the new loan project comes into the platform, our product would automatically analyze the project's parameters and screen out the best investment projects.
+Lending Club (a Peer to Peer lending marketplace) contains hundreds of loan projects, which makes it difficult for investors to choose a pro table one. In this FinTech project, we will use the data science knowledge to design a product as an intelligent investment advisor, helping investors identify the values of different projects in Lending Club, to determine the optimal projects to invest in. When the new loan project comes into the platform, our product would automatically analyze the project's parameters and screen out the best investment projects.
 
 ---
 ### 1. EDA: Count of 1 and 0 in binary variables
