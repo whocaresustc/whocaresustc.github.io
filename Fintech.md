@@ -8,9 +8,9 @@ Lending Club (a Peer to Peer lending marketplace) contains hundreds of loan proj
 
 
 ---
-### 2. Feature engineering: feature importance plot
+### 2. EDA: Averaged Annual Income by State
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~linzhisheng0605/7.embed"></iframe>
+<img src="Fintech/Averaged Annual Income by State.png"/>
 
 
 
