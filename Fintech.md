@@ -15,6 +15,6 @@ Lending Club (a Peer to Peer lending marketplace) contains hundreds of loan proj
 
 
 ---
-### 3. Model:  two levels model ensembling
+### 3. EDA: Bubble plot of fico high and low range
 
-<a href="Fintech/Fico high and low.html">Page 2</a>
+<a href="Fintech/Fico high and low.html">link to the Bubble plot of fico high and low range</a>
