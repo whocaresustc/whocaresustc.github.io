@@ -9,12 +9,12 @@
 
 
 ---
-[Fintech Project: A Robotic Investor for Lending Club ](/Fintech)
+**[Fintech Project: A Robotic Investor for Lending Club ](/Fintech)**
 
 <img src="Fintech/Introduction.png?raw=true"/>
 
 
 ---
-[COVID-19 data analysis](Ongoing)
+**[COVID-19 data analysis](Ongoing)**
 
 <img src="COVID-19/Global map.png?raw=true"/>
