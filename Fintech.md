@@ -17,4 +17,4 @@ Lending Club (a Peer to Peer lending marketplace) contains hundreds of loan proj
 ---
 ### 3. Model:  two levels model ensembling
 
-<img src="Porto Seguros Safe Driver Prediction/Model ensembling_online.png" width="2500" height="539"/>
+<img src="Porto Seguros Safe Driver Prediction/Model ensembling_online.png"/>
