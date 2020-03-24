@@ -15,6 +15,6 @@
 
 
 ---
-**[COVID-19 data analysis](Ongoing)**
+**[COVID-19 data analysis(Ongoing)]**
 
 <img src="COVID-19/Global map.png?raw=true"/>
