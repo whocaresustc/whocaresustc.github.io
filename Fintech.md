@@ -10,7 +10,7 @@ Lending Club (a Peer to Peer lending marketplace) contains hundreds of loan proj
 ---
 ### 2. EDA: Averaged Annual Income by State
 
-<img src="Fintech/Averaged Annual Income by State.png"/>
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~linzhisheng0605/13.embed"></iframe>
 
 
 
