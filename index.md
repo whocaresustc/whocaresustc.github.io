@@ -18,4 +18,4 @@
 **[COVID-19 data analysis(Ongoing)](/COVID-19)**
 
 <img src="COVID-19/Global map.png?raw=true"/>
-[Image Source(not latest updated)](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
+[Image Source(clicl to check the latest status)](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
