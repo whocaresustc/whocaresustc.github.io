@@ -19,5 +19,5 @@
 
 <img src="COVID-19/Global map.png?raw=true"/>
 
-<div align="center">[Image Source(clicl to check the latest status)](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)</div>
+[Image Source(clicl to check the latest status)](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
 
