@@ -3,3 +3,9 @@ The White House Office of Science and Technology Policy (OSTP) pulled together a
 
 **Challenge**
 While the challenge involves forecasting confirmed cases and fatalities between April 1 and April 30 by region (training data is from January 22 to March 25 ), the primary goal isn't only to produce accurate forecasts. It?s also to identify factors that appear to impact the transmission rate of COVID-19.
+
+**Public and Private Leaderboard**
+To have a public leaderboard for this forecasting task, we will be using data from 7 days before to 7 days after competition launch. Only use data prior to 2020-03-19 for predictions on the public leaderboard period. Use up to and including the most recent data for predictions on the private leaderboard period.
+
+Public Leaderboard Period - 2020-03-19 - 2020-04-01
+Private Leaderboard Period - 2020-04-02 - 2020-04-30
