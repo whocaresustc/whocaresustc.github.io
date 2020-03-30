@@ -13,7 +13,7 @@ While the challenge involves forecasting confirmed cases and fatalities between 
 
 
 
-##EDA: COVID-19/ Confirmed cases spread Over Time##
+**EDA: COVID-19/ Confirmed cases spread Over Time**
 <iframe width="900" height="800" src="COVID-19/Confirmed cases spread Over Time.html" frameborder="0"></iframe>
 
 
