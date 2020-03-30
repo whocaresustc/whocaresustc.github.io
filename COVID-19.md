@@ -21,6 +21,7 @@ While the challenge involves forecasting confirmed cases and fatalities between 
 
 
 **EDA: Confirmed Cases vs Date for different provinces at China**
+
 ** Tips about navigating the plot:**
 * Check the up right "Compare data on hover" will show all provinces data on the same date
 * Confirmed case in China/Hubei dominated, you can uncheck the China/Hubei icon to see the trends of other provinces: you will see interesting trend!
