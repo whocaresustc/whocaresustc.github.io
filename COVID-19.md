@@ -32,3 +32,7 @@ While the challenge involves forecasting confirmed cases and fatalities between 
 **Countries with Confirmed Cases**
 <iframe width="900" height="800" src="COVID-19/Countries with Confirmed Cases.html" frameborder="0"></iframe>
 
+
+**COVID-19/ Confirmed cases spread Over Time**
+<iframe width="900" height="800" src="COVID-19/COVID-19/ Confirmed cases spread Over Time.html" frameborder="0"></iframe>
+
