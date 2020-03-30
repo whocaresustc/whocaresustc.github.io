@@ -14,4 +14,8 @@ To have a public leaderboard for this forecasting task, we will be using data fr
 <iframe width="900" height="800" src="COVID-19/Worldwide Confirmed and Death Cases Over Time.html" frameborder="0"></iframe>
 
 # EDA: Confirmed Cases vs Date for different provinces at China
+## Tips about navigating the plot:
+* Check the up right "Compare data on hover" will show all provinces data on the same date
+* Confirmed case in China/Hubei dominated, you can uncheck the China/Hubei icon to see the trends of other provinces: you will see interesting trend!
+
 <iframe width="900" height="800" src="COVID-19/Confirmed Cases vs Date for different provinces at China.html" frameborder="0"></iframe>
