@@ -11,4 +11,4 @@ Public Leaderboard Period - 2020-03-19 - 2020-04-01
 Private Leaderboard Period - 2020-04-02 - 2020-04-30
 
 **Worldwide Confirmed and Death Cases Over Time**
-<iframe width="1300" height="300" src="COVID-19/Worldwide Confirmed and Death Cases Over Time.html" frameborder="40"></iframe>
+<iframe width="900" height="800" src="COVID-19/Worldwide Confirmed and Death Cases Over Time.html" frameborder="0"></iframe>
