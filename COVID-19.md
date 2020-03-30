@@ -27,3 +27,8 @@ While the challenge involves forecasting confirmed cases and fatalities between 
 * Confirmed case in China/Hubei dominated, you can uncheck the China/Hubei icon to see the trends of other provinces: you will see interesting trend!
 
 <iframe width="900" height="800" src="COVID-19/Confirmed Cases vs Date for different provinces at China.html" frameborder="0"></iframe>
+
+
+**Countries with Confirmed Cases**
+<iframe width="900" height="800" src="COVID-19/Countries with Confirmed Cases.html" frameborder="0"></iframe>
+
