@@ -15,6 +15,11 @@ While the challenge involves forecasting confirmed cases and fatalities between 
 **EDA: Worldwide Confirmed and Death Cases Over Time**
 <iframe width="900" height="800" src="COVID-19/Worldwide Confirmed and Death Cases Over Time.html" frameborder="0"></iframe>
 
+
+**EDA: Confirmed Cases for top 30 countries as of 2020-03-28**
+<iframe width="900" height="800" src="COVID-19/Confirmed Cases for top 30 countries as of 2020-03-28.html" frameborder="0"></iframe>
+
+
 **EDA: Confirmed Cases vs Date for different provinces at China**
 ** Tips about navigating the plot:**
 * Check the up right "Compare data on hover" will show all provinces data on the same date
