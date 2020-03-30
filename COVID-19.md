@@ -13,6 +13,9 @@ While the challenge involves forecasting confirmed cases and fatalities between 
 
 
 
+**EDA: COVID-19/ Confirmed cases spread Over Time**
+<iframe width="900" height="800" src="COVID-19/Confirmed cases spread Over Time.html" frameborder="0"></iframe>
+
 
 **EDA: Worldwide Confirmed and Death Cases Over Time**
 <iframe width="900" height="800" src="COVID-19/Worldwide Confirmed and Death Cases Over Time.html" frameborder="0"></iframe>
@@ -34,9 +37,6 @@ While the challenge involves forecasting confirmed cases and fatalities between 
 **EDA: Countries with Confirmed Cases**
 <iframe width="900" height="800" src="COVID-19/Countries with Confirmed Cases.html" frameborder="0"></iframe>
 
-
-**EDA: COVID-19/ Confirmed cases spread Over Time**
-<iframe width="900" height="800" src="COVID-19/Confirmed cases spread Over Time.html" frameborder="0"></iframe>
 
 
 **Resources**
